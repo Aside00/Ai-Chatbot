@@ -1,7 +1,7 @@
-# AI Chatbot 💬
+# sara-appointment-assistant-llm💬
 
-A simple chatbot with **persona selection** (Study Buddy, DevOps Coach, Recipe Guru).  
-Built with **OpenAI** and **Gradio**.
+Small Arabic LLM chatbot for customer service — Sara helps users raise complaints, book appointments (with phone & date), and inquire results via ticket & email. Built with Gradio + OpenAI.
 
-## 📂 Structure
-- 🖥️ **app.py** → Gradio chat app
+## Code Link : https://colab.research.google.com/drive/16DcWE294q-qLfNQKZOYacBzCXR3-d8KR?usp=sharing
+
+## Test Video : https://drive.google.com/file/d/1-4G7UUxf0IrF4KsXHT8WbLF5aQp76m4x/view?usp=sharing
