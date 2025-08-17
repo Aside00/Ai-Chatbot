@@ -1,4 +1,4 @@
-# sara-appointment-assistant-llm💬
+# Sara-appointment-assistant-llm💬
 
 Small Arabic LLM chatbot for customer service — Sara helps users raise complaints, book appointments (with phone & date), and inquire results via ticket & email. Built with Gradio + OpenAI.
 
